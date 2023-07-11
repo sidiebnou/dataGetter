@@ -1,0 +1,28 @@
+{
+    {
+        "title": "Apples:",
+        "country": "Mexico:",
+        "cost": 3,
+        "instock": 10,
+        "url": "http://geospatial.mit.edu",
+        "objectID": 1
+    },
+    {
+        "title": "Oranges:",
+        "country": "Spain",
+        "cost": 4,
+        "instock": 3,
+        "url": "http://geospatial.mit.edu",
+        "objectID": 2
+    },
+    {
+        "title": "Beans:",
+        "country": "USA",
+        "cost": 2,
+
+    }
+
+
+
+
+}
